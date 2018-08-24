@@ -1,4 +1,5 @@
 [{
+    "id": 0,
     "kitap_adi": "Çağrılmayan Yakup",
     "yazar_adi": "Edip Cansever",
     "yayinevi": "YAPI KREDİ YAYINLARI",
@@ -7,6 +8,7 @@
     "link": "https://www.kitapyurdu.com/kitap/cagrilmayan-yakup/470621.html",
     "fiyat": "3,90"
 },{
+    "id": 1,
     "kitap_adi": "Mutluluk Beyinde Başlar",
     "yazar_adi": "Daniel Gilbert",
     "yayinevi": "KETEBE YAYINEVİ",
@@ -15,6 +17,7 @@
     "link": "https://www.kitapyurdu.com/kitap/mutluluk-beyinde-baslar/469653.html",
     "fiyat": "19,20"
 },{
+    "id": 2,
     "kitap_adi": "Narsist",
     "yazar_adi": "Vi Keeland ",
     "yayinevi": "YABANCI YAYINLARI",
@@ -23,6 +26,7 @@
     "link": "https://www.kitapyurdu.com/kitap/narsist/469634.html",
     "fiyat": "16,90"
 },{
+    "id": 3,
     "kitap_adi": "Milena’ya Mektuplar ",
     "yazar_adi": "Franz Kafka",
     "yayinevi": "İNDİGO KİTAP",
@@ -31,6 +35,7 @@
     "link": "https://www.kitapyurdu.com/kitap/milenaya-mektuplar-/470437.html",
     "fiyat": "10,80"
 },{
+    "id": 4,
     "kitap_adi": "İslam Bilim Tarihi (5 Kitap Takım)",
     "yazar_adi": "Abdullah Kocayürek",
     "yayinevi": "MAVİÇATI YAYINLARI",
@@ -39,6 +44,7 @@
     "link": "https://www.kitapyurdu.com/kitap/islam-bilim-tarihi-5-kitap-takim/470520.html",
     "fiyat": "24,00"
 },{
+    "id": 5,
     "kitap_adi": "İnsanların Dünyası",
     "yazar_adi": "Antoine De Saint Exupery",
     "yayinevi": "TİMAŞ YAYINLARI",
@@ -47,6 +53,7 @@
     "link": "https://www.kitapyurdu.com/kitap/insanlarin-dunyasi/470413.html",
     "fiyat": "9,09"
 },{
+    "id": 6,
     "kitap_adi": "OHAL’de Hayat & KHK’liler Konuşuyor",
     "yazar_adi": "Kemal İnal",
     "yayinevi": "BELGE YAYINLARI",
@@ -55,6 +62,7 @@
     "link": "https://www.kitapyurdu.com/kitap/ohalde-hayat-amp-khkliler-konusuyor/470903.html",
     "fiyat": "26,60"
 },{
+    "id": 7,
     "kitap_adi": "Birazcık Evli",
     "yazar_adi": "Gail Parent",
     "yayinevi": "OLİMPOS YAYINLARI",
@@ -63,6 +71,7 @@
     "link": "https://www.kitapyurdu.com/kitap/birazcik-evli/470646.html",
     "fiyat": "13,50"
 },{
+    "id": 8,
     "kitap_adi": "Nisa",
     "yazar_adi": "Ali Karakaya",
     "yayinevi": "BENGİSU YAYINLARI",
@@ -71,6 +80,7 @@
     "link": "https://www.kitapyurdu.com/kitap/nisa/469878.html",
     "fiyat": "8,40"
 },{
+    "id": 9,
     "kitap_adi": "Bir Rehineye Mektup ",
     "yazar_adi": "Antoine De Saint Exupery",
     "yayinevi": "KIRMIZI KEDİ YAYINEVİ",
@@ -79,6 +89,7 @@
     "link": "https://www.kitapyurdu.com/kitap/bir-rehineye-mektup-/470314.html",
     "fiyat": "4,55"
 },{
+    "id": 10,
     "kitap_adi": "BTS: Kurşun Geçirmez İzcilerin Yükselişi ( Poster Hediyeli )",
     "yazar_adi": "Cara J. Stevens",
     "yayinevi": "BEYAZ BALİNA YAYINLARI",
@@ -87,6 +98,7 @@
     "link": "https://www.kitapyurdu.com/kitap/bts-kursun-gecirmez-izcilerin-yukselisi--poster-hediyeli-/471661.html",
     "fiyat": "13,00"
 },{
+    "id": 14,
     "kitap_adi": "Osmanlı'nın Sosyo-Kültürel ve İktisadi Yapısı",
     "yazar_adi": "Mübahat S. Kütükoğlu",
     "yayinevi": "TÜRK TARİH KURUMU",
@@ -95,6 +107,7 @@
     "link": "https://www.kitapyurdu.com/kitap/osmanlinin-sosyokulturel-ve-iktisadi-yapisi/471702.html",
     "fiyat": "40,00"
 },{
+    "id": 15,
     "kitap_adi": "Nova’s GMAT Prep Course +Software ",
     "yazar_adi": "Jeff Kolby",
     "yayinevi": "NÜANS KİTABEVİ",
@@ -103,6 +116,7 @@
     "link": "https://www.kitapyurdu.com/kitap/novas-gmat-prep-course-software-/471700.html",
     "fiyat": "96,72"
 },{
+    "id": 16,
     "kitap_adi": "The Three Little Pigs +Workbook +MultiROM (Show Time Level 2)",
     "yazar_adi": "Caitlin Schmitt",
     "yayinevi": "BUILD & GROW",
@@ -111,6 +125,7 @@
     "link": "https://www.kitapyurdu.com/kitap/the-three-little-pigs-workbook-multirom-show-time-level-2/471698.html",
     "fiyat": "67,70"
 },{
+    "id": 17,
     "kitap_adi": "Ateş ile Barut Şaşkın Kuzenler (8 Hikaye + Değerlendirme Testi)",
     "yazar_adi": "Kollektif ",
     "yayinevi": "ARI YAYINCILIK",
@@ -119,6 +134,7 @@
     "link": "https://www.kitapyurdu.com/kitap/ates-ile-barut-saskin-kuzenler-8-hikaye--degerlendirme-testi/471693.html",
     "fiyat": "22,40"
 },{
+    "id": 18,
     "kitap_adi": "Pirates +Audio (Nuance Readers Level – 2)",
     "yazar_adi": "Pauline Francis",
     "yayinevi": "NÜANS KİTABEVİ",
@@ -127,6 +143,7 @@
     "link": "https://www.kitapyurdu.com/kitap/pirates-audio-nuance-readers-level--2/471692.html",
     "fiyat": "17,73"
 },{
+    "id": 19,
     "kitap_adi": "Franz ve Dedektiflik Hikayesi",
     "yazar_adi": "Christine Nöstlinger",
     "yayinevi": "GÜNIŞIĞI KİTAPLIĞI",
@@ -135,6 +152,7 @@
     "link": "https://www.kitapyurdu.com/kitap/franz-ve-dedektiflik-hikayesi/471691.html",
     "fiyat": "10,01"
 },{
+    "id": 20,
     "kitap_adi": "Franz ve Arkadaşlık Hikayesi",
     "yazar_adi": "Christine Nöstlinger",
     "yayinevi": "GÜNIŞIĞI KİTAPLIĞI",
@@ -143,6 +161,7 @@
     "link": "https://www.kitapyurdu.com/kitap/franz-ve-arkadaslik-hikayesi/471690.html",
     "fiyat": "10,01"
 },{
+    "id": 21,
     "kitap_adi": "Korolar İçin Çoksesli Türküler",
     "yazar_adi": "Ferda Ereren",
     "yayinevi": "ALFA YAYINLARI",
@@ -151,6 +170,7 @@
     "link": "https://www.kitapyurdu.com/kitap/korolar-icin-coksesli-turkuler/471689.html",
     "fiyat": "21,75"
 },{
+    "id": 22,
     "kitap_adi": "6. Sınıf Türkçe MPS Konu Anlatımlı",
     "yazar_adi": "Kollektif ",
     "yayinevi": "KAREKÖK",
@@ -159,6 +179,7 @@
     "link": "https://www.kitapyurdu.com/kitap/6-sinif-turkce-mps-konu-anlatimli/471688.html",
     "fiyat": "25,35"
 },{
+    "id": 23,
     "kitap_adi": "YKS 2. Oturum AYT Kimya Soru Bankası",
     "yazar_adi": "Kollektif ",
     "yayinevi": "KAREKÖK",
@@ -167,6 +188,7 @@
     "link": "https://www.kitapyurdu.com/kitap/yks-2-oturum-ayt-kimya-soru-bankasi/471687.html",
     "fiyat": "32,50"
 },{
+    "id": 24,
     "kitap_adi": "Olympos Tanrılarının İntiharı",
     "yazar_adi": "Haydar Ersöz",
     "yayinevi": "LA KİTAP",
@@ -175,6 +197,7 @@
     "link": "https://www.kitapyurdu.com/kitap/olympos-tanrilarinin-intihari/471686.html",
     "fiyat": "28,00"
 },{
+    "id": 25,
     "kitap_adi": "Hayat Dediğin",
     "yazar_adi": "Özgür Yılmaz",
     "yayinevi": "LA KİTAP",
@@ -183,6 +206,7 @@
     "link": "https://www.kitapyurdu.com/kitap/hayat-dedigin/471685.html",
     "fiyat": "8,00"
 },{
+    "id": 26,
     "kitap_adi": "Sevimsiz Tanrılar",
     "yazar_adi": "Gökten Çağrı Aktan",
     "yayinevi": "LA KİTAP",
@@ -191,6 +215,7 @@
     "link": "https://www.kitapyurdu.com/kitap/sevimsiz-tanrilar/471684.html",
     "fiyat": "20,00"
 },{
+    "id": 27,
     "kitap_adi": "Gözlerin Hikayesi ",
     "yazar_adi": "Haydar Ersöz",
     "yayinevi": "LA KİTAP",
@@ -199,6 +224,7 @@
     "link": "https://www.kitapyurdu.com/kitap/gozlerin-hikayesi-/471683.html",
     "fiyat": "22,40"
 },{
+    "id": 28,
     "kitap_adi": "50 Soruda Teknolojik Gelişmeler ve Hayatımız",
     "yazar_adi": "Hayri Kozanoğlu",
     "yayinevi": "ALTINBAŞ ÜNİVERSİTESİ YAYINLARI",
@@ -207,6 +233,7 @@
     "link": "https://www.kitapyurdu.com/kitap/50-soruda-teknolojik-gelismeler-ve-hayatimiz/471682.html",
     "fiyat": "14,37"
 },{
+    "id": 29,
     "kitap_adi": "2019 DGS Sayısal Sözel Mantık Konu Anlatımlı",
     "yazar_adi": "Mustafa Tarim",
     "yayinevi": "YEDİİKLİM YAYINLARI",
@@ -215,6 +242,7 @@
     "link": "https://www.kitapyurdu.com/kitap/2019-dgs-sayisal-sozel-mantik-konu-anlatimli/471681.html",
     "fiyat": "38,40"
 },{
+    "id": 30,
     "kitap_adi": "Kore Savaşı ve Türkiye'nin Nato'ya Kabul Edilmesi & Gazi Mehmet Göymen'in Anılarıyla",
     "yazar_adi": "Vural Şahbenderoğlu",
     "yayinevi": "YASON YAYINCILIK",
@@ -223,6 +251,7 @@
     "link": "https://www.kitapyurdu.com/kitap/kore-savasi-ve-turkiyenin-natoya-kabul-edilmesi-amp-gazi-mehmet-goymenin-anilariyla/471680.html",
     "fiyat": "10,13"
 },{
+    "id": 31,
     "kitap_adi": "Sahih Rivayetlere Göre Dört Halife Dönemi",
     "yazar_adi": "Prof.Dr. Ekrem Ziya Umeri",
     "yayinevi": "BEKA YAYINLARI",
@@ -231,6 +260,7 @@
     "link": "https://www.kitapyurdu.com/kitap/sahih-rivayetlere-gore-dort-halife-donemi/471679.html",
     "fiyat": "32,40"
 },{
+    "id": 32,
     "kitap_adi": "She & Kadın Psikolojisini Anlamak",
     "yazar_adi": "Robert A. Johnson",
     "yayinevi": "CHİVİYAZILARI YAYINEVİ",
@@ -239,6 +269,7 @@
     "link": "https://www.kitapyurdu.com/kitap/she-amp-kadin-psikolojisini-anlamak/471678.html",
     "fiyat": "19,12"
 },{
+    "id": 33,
     "kitap_adi": "Kaynaklarına Göre Enerji Tüketiminin Ekonomik Büyümeye Etkileri",
     "yazar_adi": "İsmail Şentürk",
     "yayinevi": "TAŞHAN KİTAP YAYINLARI",
@@ -247,6 +278,7 @@
     "link": "https://www.kitapyurdu.com/kitap/kaynaklarina-gore-enerji-tuketiminin-ekonomik-buyumeye-etkileri/471677.html",
     "fiyat": "20,74"
 },{
+    "id": 34,
     "kitap_adi": "Paragrafın Ritmi",
     "yazar_adi": "Hamza Kaya",
     "yayinevi": "ARI YAYINCILIK",
@@ -255,6 +287,7 @@
     "link": "https://www.kitapyurdu.com/kitap/paragrafin-ritmi/471676.html",
     "fiyat": "47,20"
 },{
+    "id": 35,
     "kitap_adi": "Ben Onları Çok Sevdim",
     "yazar_adi": "Hacı Ormanoğlu",
     "yayinevi": "AZ KİTAP",
@@ -263,6 +296,7 @@
     "link": "https://www.kitapyurdu.com/kitap/ben-onlari-cok-sevdim/471675.html",
     "fiyat": "9,75"
 },{
+    "id": 36,
     "kitap_adi": "Mahalle Arkadaşlığı",
     "yazar_adi": "Hacı Ormanoğlu",
     "yayinevi": "AZ KİTAP",
@@ -271,6 +305,7 @@
     "link": "https://www.kitapyurdu.com/kitap/mahalle-arkadasligi/471674.html",
     "fiyat": "9,75"
 },{
+    "id": 37,
     "kitap_adi": "Öteki Şiirler",
     "yazar_adi": "Mustafa Özbey",
     "yayinevi": "GÜNCE YAYINLARI",
@@ -279,6 +314,7 @@
     "link": "https://www.kitapyurdu.com/kitap/oteki-siirler/471673.html",
     "fiyat": "12,68"
 },{
+    "id": 38,
     "kitap_adi": "Faith in the Laboratory (İnanç Psikolojisi - İngilizce)",
     "yazar_adi": "Prof. Dr. Nevzat Tarhan",
     "yayinevi": "TİMAŞ YAYINLARI",
@@ -287,6 +323,7 @@
     "link": "https://www.kitapyurdu.com/kitap/faith-in-the-laboratory-inanc-psikolojisi--ingilizce/471672.html",
     "fiyat": "21,00"
 },{
+    "id": 39,
     "kitap_adi": "2018 Kurum Sınavları İçin Hukuk Mevzuat Güncelleme Notu",
     "yazar_adi": "Kutluay Kararlı",
     "yayinevi": "4T YAYINEVİ",
@@ -295,6 +332,7 @@
     "link": "https://www.kitapyurdu.com/kitap/2018-kurum-sinavlari-icin-hukuk-mevzuat-guncelleme-notu/471671.html",
     "fiyat": "11,90"
 },{
+    "id": 40,
     "kitap_adi": "Tex Yeni 36 / Haykıran Cehennem / Kaçırılan Çocuk ",
     "yazar_adi": "Mauro Boselli",
     "yayinevi": "ÖZER SAHAF",
@@ -303,6 +341,7 @@
     "link": "https://www.kitapyurdu.com/kitap/tex-yeni-36--haykiran-cehennem--kacirilan-cocuk-/471669.html",
     "fiyat": "25,50"
 },{
+    "id": 41,
     "kitap_adi": "Tex Klasik Seri 42  ",
     "yazar_adi": "Guido Nolitta",
     "yayinevi": "ÖZER SAHAF",
@@ -311,6 +350,7 @@
     "link": "https://www.kitapyurdu.com/kitap/tex-klasik-seri-42--/471668.html",
     "fiyat": "25,50"
 },{
+    "id": 42,
     "kitap_adi": "Coffin Hill 3. Cilt",
     "yazar_adi": "Caitlin Kittredge",
     "yayinevi": "ÖZER SAHAF",
@@ -319,6 +359,7 @@
     "link": "https://www.kitapyurdu.com/kitap/coffin-hill-3-cilt/471667.html",
     "fiyat": "28,50"
 },{
+    "id": 43,
     "kitap_adi": "Detone Yalnızlık",
     "yazar_adi": "Meltem Tekin",
     "yayinevi": "GECE KİTAPLIĞI",
@@ -327,6 +368,7 @@
     "link": "https://www.kitapyurdu.com/kitap/detone-yalnizlik/471666.html",
     "fiyat": "6,60"
 },{
+    "id": 44,
     "kitap_adi": "Aşkta Oyun Olmaz",
     "yazar_adi": "Bella Black",
     "yayinevi": "GECE KİTAPLIĞI",
@@ -335,6 +377,7 @@
     "link": "https://www.kitapyurdu.com/kitap/askta-oyun-olmaz/471665.html",
     "fiyat": "26,57"
 },{
+    "id": 45,
     "kitap_adi": "Global Kriz",
     "yazar_adi": "Pelin Şahin Yarbağ",
     "yayinevi": "GECE KİTAPLIĞI",
@@ -343,6 +386,7 @@
     "link": "https://www.kitapyurdu.com/kitap/global-kriz/471664.html",
     "fiyat": "14,40"
 },{
+    "id": 46,
     "kitap_adi": "Üç Ok",
     "yazar_adi": "Müslim Akil Avci",
     "yayinevi": "VAVEYLA YAYINCILIK",
@@ -351,6 +395,7 @@
     "link": "https://www.kitapyurdu.com/kitap/uc-ok/471663.html",
     "fiyat": "15,00"
 },{
+    "id": 49,
     "kitap_adi": "30 Fasikülde YDS",
     "yazar_adi": "Ahmet Taşpınar",
     "yayinevi": "MODADİL YAYINLARI",
@@ -359,6 +404,7 @@
     "link": "https://www.kitapyurdu.com/kitap/30-fasikulde-yds/471658.html",
     "fiyat": "117,00"
 },{
+    "id": 50,
     "kitap_adi": "60 Günde Ezberbozan Yds Kelimeleri",
     "yazar_adi": "Suat Gürcan",
     "yayinevi": "MODADİL YAYINLARI",
@@ -367,6 +413,7 @@
     "link": "https://www.kitapyurdu.com/kitap/60-gunde-ezberbozan-yds-kelimeleri/471657.html",
     "fiyat": "52,00"
 },{
+    "id": 51,
     "kitap_adi": "YökDil Sağlık Bilimleri Soru Bankası",
     "yazar_adi": "Suat Gürcan",
     "yayinevi": "MODADİL YAYINLARI",
@@ -375,6 +422,7 @@
     "link": "https://www.kitapyurdu.com/kitap/yokdil-saglik-bilimleri-soru-bankasi/471656.html",
     "fiyat": "58,50"
 },{
+    "id": 52,
     "kitap_adi": "YKS DİL İngilizce Ön Hazırlık Set 6 (Kelime Canavarı 4,5,6 + Okuma Canavarı 4,5,6)",
     "yazar_adi": "Kollektif ",
     "yayinevi": "MODADİL YAYINLARI",
@@ -383,6 +431,7 @@
     "link": "https://www.kitapyurdu.com/kitap/yks-dil-ingilizce-on-hazirlik-set-6-kelime-canavari-456--okuma-canavari-456/471655.html",
     "fiyat": "210,93"
 },{
+    "id": 53,
     "kitap_adi": "YKS DİL İngilizce Ön Hazırlık Set 5 (Kelime Canavarı 1,2,3,4,5,6 + Okuma Canavarı 1,2,3,4,5,6) ",
     "yazar_adi": "Kollektif ",
     "yayinevi": "MODADİL YAYINLARI",
@@ -391,6 +440,7 @@
     "link": "https://www.kitapyurdu.com/kitap/yks-dil-ingilizce-on-hazirlik-set-5-kelime-canavari-123456--okuma-canavari-123456-/471654.html",
     "fiyat": "341,58"
 },{
+    "id": 54,
     "kitap_adi": "YKS DİL İngilizce Ön Hazırlık Set 4 (Kelime Canavarı 6 + Okuma Canavarı 6)",
     "yazar_adi": "Kollektif ",
     "yayinevi": "MODADİL YAYINLARI",
@@ -399,6 +449,7 @@
     "link": "https://www.kitapyurdu.com/kitap/yks-dil-ingilizce-on-hazirlik-set-4-kelime-canavari-6--okuma-canavari-6/471653.html",
     "fiyat": "79,63"
 },{
+    "id": 55,
     "kitap_adi": "YKS DİL İngilizce Ön Hazırlık Set 3 (Kelime Canavarı 5 + Okuma Canavarı 5) ",
     "yazar_adi": "Kollektif ",
     "yayinevi": "MODADİL YAYINLARI",
@@ -407,6 +458,7 @@
     "link": "https://www.kitapyurdu.com/kitap/yks-dil-ingilizce-on-hazirlik-set-3-kelime-canavari-5--okuma-canavari-5-/471652.html",
     "fiyat": "71,18"
 },{
+    "id": 56,
     "kitap_adi": "YKS DİL İngilizce Ön Hazırlık Set 2 (Kelime Canavarı 4 + Okuma Canavarı 4) ",
     "yazar_adi": "Kollektif ",
     "yayinevi": "MODADİL YAYINLARI",
@@ -415,6 +467,7 @@
     "link": "https://www.kitapyurdu.com/kitap/yks-dil-ingilizce-on-hazirlik-set-2-kelime-canavari-4--okuma-canavari-4-/471651.html",
     "fiyat": "60,13"
 },{
+    "id": 57,
     "kitap_adi": "YKS DİL İngilizce Ön Hazırlık Set 1 (Kelime Canavarı 1,2,3 + Okuma Canavarı 1,2,3) ",
     "yazar_adi": "Kollektif ",
     "yayinevi": "MODADİL YAYINLARI",
@@ -423,6 +476,7 @@
     "link": "https://www.kitapyurdu.com/kitap/yks-dil-ingilizce-on-hazirlik-set-1-kelime-canavari-123--okuma-canavari-123-/471650.html",
     "fiyat": "136,18"
 },{
+    "id": 58,
     "kitap_adi": "Şakiro & Kewe Ribat",
     "yazar_adi": "Ayhan Yıldız",
     "yayinevi": "NUBİHAR YAYINLARI",
@@ -431,6 +485,7 @@
     "link": "https://www.kitapyurdu.com/kitap/sakiro-amp-kewe-ribat/471649.html",
     "fiyat": "19,58"
 },{
+    "id": 59,
     "kitap_adi": "Her Yerde Müslümanca",
     "yazar_adi": "Servet Çelenk",
     "yayinevi": "MEVSİMLER KİTAP",
@@ -439,6 +494,7 @@
     "link": "https://www.kitapyurdu.com/kitap/her-yerde-muslumanca/471648.html",
     "fiyat": "9,00"
 },{
+    "id": 60,
     "kitap_adi": "Bir Modernleşme Öyküsü Türkiye’de Yılbaşı Kutlamaları (1926-1950)",
     "yazar_adi": "Serkan Tuna",
     "yayinevi": "CİNİUS YAYINLARI",
@@ -447,6 +503,7 @@
     "link": "https://www.kitapyurdu.com/kitap/bir-modernlesme-oykusu-turkiyede-yilbasi-kutlamalari-19261950/471647.html",
     "fiyat": "30,38"
 },{
+    "id": 61,
     "kitap_adi": "Dogmadan Bilime",
     "yazar_adi": "Turgut Karabekir",
     "yayinevi": "CİNİUS YAYINLARI",
@@ -455,6 +512,7 @@
     "link": "https://www.kitapyurdu.com/kitap/dogmadan-bilime/471646.html",
     "fiyat": "25,65"
 },{
+    "id": 62,
     "kitap_adi": "Maviye Giden Yolda",
     "yazar_adi": "Deniz Günsür",
     "yayinevi": "CİNİUS YAYINLARI",
@@ -463,6 +521,7 @@
     "link": "https://www.kitapyurdu.com/kitap/maviye-giden-yolda/471645.html",
     "fiyat": "6,75"
 },{
+    "id": 63,
     "kitap_adi": "Yan Yana Can Cana Türkiye",
     "yazar_adi": "Tahir Fatih Andı",
     "yayinevi": "HAT YAYINEVİ",
@@ -471,6 +530,7 @@
     "link": "https://www.kitapyurdu.com/kitap/yan-yana-can-cana-turkiye/471644.html",
     "fiyat": "10,50"
 },{
+    "id": 64,
     "kitap_adi": "Günahların Kefaretine Dair Allah Resulünün (s.a.) Müjdeleri",
     "yazar_adi": "İmam Ezrai el-Kabuni ",
     "yayinevi": "RİSALE",
@@ -479,6 +539,7 @@
     "link": "https://www.kitapyurdu.com/kitap/gunahlarin-kefaretine-dair-allah-resulunun-sa-mujdeleri/471643.html",
     "fiyat": "21,00"
 },{
+    "id": 65,
     "kitap_adi": "Gümüşlük Meleği",
     "yazar_adi": "Serpil Ciritci",
     "yayinevi": "KERASUS",
@@ -487,6 +548,7 @@
     "link": "https://www.kitapyurdu.com/kitap/gumusluk-melegi/471642.html",
     "fiyat": "14,85"
 },{
+    "id": 66,
     "kitap_adi": "Düşlerde Yol",
     "yazar_adi": "Aynur Sarıkaya",
     "yayinevi": "KADRAN YAYINEVİ",
@@ -495,6 +557,7 @@
     "link": "https://www.kitapyurdu.com/kitap/duslerde-yol/471641.html",
     "fiyat": "12,15"
 },{
+    "id": 67,
     "kitap_adi": "Mürekkebin Gölgesi",
     "yazar_adi": "İbrahim Erdoğan",
     "yayinevi": "DİGA KİTAP",
@@ -503,6 +566,7 @@
     "link": "https://www.kitapyurdu.com/kitap/murekkebin-golgesi/471640.html",
     "fiyat": "10,50"
 },{
+    "id": 68,
     "kitap_adi": "Umut Kumsalı",
     "yazar_adi": "Batıni Bain",
     "yayinevi": "DİGA KİTAP",
@@ -511,6 +575,7 @@
     "link": "https://www.kitapyurdu.com/kitap/umut-kumsali/471639.html",
     "fiyat": "12,00"
 },{
+    "id": 69,
     "kitap_adi": "Neden",
     "yazar_adi": "Özge Yavuz",
     "yayinevi": "DİGA KİTAP",
@@ -519,6 +584,7 @@
     "link": "https://www.kitapyurdu.com/kitap/neden/471638.html",
     "fiyat": "12,00"
 },{
+    "id": 70,
     "kitap_adi": "3 Gen",
     "yazar_adi": "Ali Gözüaçık",
     "yayinevi": "DİGA KİTAP",
